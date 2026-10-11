@@ -12,7 +12,6 @@ import '../widgets/category_tab_bar.dart';
 import '../widgets/product_card.dart';
 import 'product_detail_sheet.dart';
 
-/// Halaman utama Fluty Market dengan grid produk, animasi, filter, sorting, & cart berbahasa Indonesia.
 class MarketplacePage extends StatefulWidget {
   const MarketplacePage({super.key});
 
